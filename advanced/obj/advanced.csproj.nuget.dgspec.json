@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj": {}
+    "C:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj": {}
   },
   "projects": {
-    "c:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj": {
+    "C:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj",
+        "projectUniqueName": "C:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj",
         "projectName": "advanced",
-        "projectPath": "c:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj",
-        "packagesPath": "C:\\Users\\userped1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\obj\\",
+        "projectPath": "C:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\advanced.csproj",
+        "packagesPath": "C:\\Users\\murilo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murilo.silva\\Estudos\\Training\\advanced\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\userped1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murilo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gitlab.solucoesluz.com/api/v4/groups/21/-/packages/nuget/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
