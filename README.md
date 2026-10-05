@@ -12,7 +12,7 @@ The exercises are organized progressively, starting with fundamental concepts an
 Training/
 ├── basic/
 ├── intermediate/
-└── advanced/       # Future
+└── advanced/  
 ```
 
 ### Basic
